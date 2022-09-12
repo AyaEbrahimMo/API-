@@ -1,0 +1,89 @@
+{
+    "id": "631de03062851b00c887daf5",
+    "aaId": "631de02dce3e476e42ab33e9",
+    "activityBlocked": false,
+    "avatarHash": "d85db189defdee663b309e44b8404310",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/631de03062851b00c887daf5/d85db189defdee663b309e44b8404310",
+    "bio": "",
+    "bioData": null,
+    "confirmed": true,
+    "fullName": "Aya Ebrahim",
+    "idEnterprise": null,
+    "idEnterprisesDeactivated": [],
+    "idMemberReferrer": null,
+    "idPremOrgsAdmin": [],
+    "initials": "AE",
+    "memberType": "normal",
+    "nonPublic": {},
+    "nonPublicAvailable": true,
+    "products": [],
+    "url": "https://trello.com/ayaebrahim8",
+    "username": "ayaebrahim8",
+    "status": "disconnected",
+    "aaBlockSyncUntil": null,
+    "aaEmail": null,
+    "aaEnrolledDate": null,
+    "avatarSource": "none",
+    "credentialsRemovedCount": 0,
+    "domainClaimed": null,
+    "email": "yoyaebrahim285@gmail.com",
+    "goldSunsetFreeTrialIdOrganization": null,
+    "gravatarHash": "3841ee20e4ae2638e0ba9502b46d5cd2",
+    "idBoards": [],
+    "idOrganizations": [
+        "631de077b716120147a367e0"
+    ],
+    "idEnterprisesAdmin": [],
+    "limits": {
+        "boards": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 4500,
+                "warnAt": 3600
+            }
+        },
+        "orgs": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 850,
+                "warnAt": 680
+            }
+        }
+    },
+    "loginTypes": [
+        "atlassian"
+    ],
+    "marketingOptIn": {
+        "optedIn": true,
+        "date": "2022-09-11T13:18:44.305Z"
+    },
+    "messagesDismissed": [],
+    "oneTimeMessagesDismissed": [
+        "sent-possible-new-signup-event"
+    ],
+    "prefs": {
+        "privacy": {
+            "fullName": "public",
+            "avatar": "public"
+        },
+        "sendSummaries": true,
+        "minutesBetweenSummaries": 60,
+        "minutesBeforeDeadlineToNotify": 1440,
+        "colorBlind": false,
+        "locale": "en-US"
+    },
+    "trophies": [],
+    "uploadedAvatarHash": null,
+    "uploadedAvatarUrl": null,
+    "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+    ],
+    "isAaMastered": true,
+    "ixUpdate": "9",
+    "boards": []
+}
